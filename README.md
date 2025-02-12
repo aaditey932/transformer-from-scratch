@@ -168,9 +168,7 @@ Check out my **YouTube video** explaining this Transformer model:
 
 ## 📝 References
 
-- Vaswani et al., ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)  
-- Jay Alammar's **"The Illustrated Transformer"** [link](https://jalammar.github.io/illustrated-transformer/)  
-- OpenAI's GPT Models & Applications  
+- Vaswani et al., ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)
 
 ---
 
