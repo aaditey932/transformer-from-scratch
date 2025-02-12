@@ -1,7 +1,3 @@
-Here's a **complete, well-formatted `README.md`** file that you can **copy-paste directly into your GitHub repository**. It includes everything: **project overview, installation, usage, architecture explanation, key components, training info, references, and contribution guidelines**.
-
----
-
 ## **📜 `README.md` – Transformer Model from Scratch**  
 
 ```md
