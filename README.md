@@ -191,10 +191,3 @@ git push origin feature-branch
 ```
 
 ---
-
-### **💡 Next Steps**
-- Add a **training script** (if you plan to train the Transformer).
-- Include **examples on how to use the decoder**.
-- Create **Jupyter notebooks for interactive demos**.
-
-Would you like me to include **plots for attention weights** or **performance benchmarks**? 🚀
