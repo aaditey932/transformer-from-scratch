@@ -1,6 +1,3 @@
-## **📜 `README.md` – Transformer Model from Scratch**  
-
-
 # 🚀 CoreTransformer - A Transformer Model from Scratch
 
 This repository contains a **from-scratch implementation** of the **Transformer architecture** using **NumPy**. The model is inspired by the paper ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) and implements **multi-head self-attention, positional encoding, feed-forward networks, and masking**.
